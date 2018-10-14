@@ -1,2 +1,2 @@
-#To run app
+# To run app
 npm start
